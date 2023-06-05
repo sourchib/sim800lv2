@@ -14,7 +14,7 @@ const char user[] = "";
 const char pass[] = "";
 
 // MQTT details
-const char* broker = "18.119.46.225";
+const char* broker = "108.137.155.108";
 
 TinyGsm modem(SerialAT);
 TinyGsmClient client(modem);
